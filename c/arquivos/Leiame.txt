@@ -1,0 +1,21 @@
+Documentação sobre C .
+
+Tipos de dados:
+int = inteiro
+char = caracter
+float = decimal 
+double = decimal
+bol = Boleano
+
+printf = Impressao em tela.
+scanf  = Capturar teclado.
+
+Ponteiro
+<tipo> *<nome_do_ponteiro>
+ex: int *valor
+
+Variaveis  (local/global)
+
+Local  => so pode ser vista dentro do corpo onde foi definido.
+Global => e preciso criar fora de qualquer funcao para que seja reconhecida em todas as funcoes:
+
